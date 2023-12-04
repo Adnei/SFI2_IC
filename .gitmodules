@@ -1,0 +1,3 @@
+[submodule "kubeadm_worker_setup"]
+	path = kubeadm_worker_setup
+	url = https://github.com/Adnei/kubeadm_worker_setup.git
